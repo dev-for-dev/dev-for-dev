@@ -1,5 +1,7 @@
 ### Olá, sou André Santos👋
 <h3 align="left">Graduação:</h3>
+<div> <a href="https://www.wyden.com.br/" target="blank">
+  <img src="https://cdn.portal.estacio.br/Wyden_805cb6258d.svg" alt="https://www.wyden.com.br/" width="15" height="60"/></a> Graduando em Análise e Desenvolvimento de Sistemas</div>
 <div> <a href="https://www.ifpb.edu.br/monteiro" target="blank">
   <img src="https://avatars.githubusercontent.com/u/2523928?s=200&v=4" alt="https://www.ifpb.edu.br/monteiro" width="15" height="15"/></a> Graduando em Análise e Desenvolvimento de Sistemas</div>
  <div> <a href="https://web.dio.me/users/andrefiiliip_ss?tab=skills" target="blank">
