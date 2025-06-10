@@ -1,5 +1,12 @@
 <h1 align="center">Olá, eu sou o André Santos 👋</h1>
 
+<div align="center">
+  <a href="https://www.linkedin.com/in/andre-f-s-santos" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/dev-for-dev/dev-for-dev/refs/heads/main/git.jpg"       alt="https://www.linkedin.com/in/andre-f-s-santos" width="200" height="200"/></a>
+</div>
+
+---
+
 <p align="center">
 Graduando em <strong>Análise e Desenvolvimento de Sistemas</strong> e apaixonado por tecnologia. <br>
 Atualmente trabalho com suporte técnico em telecomunicações, mas estou em transição para a área de <strong>desenvolvimento Java</strong> ☕
